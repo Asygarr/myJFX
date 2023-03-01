@@ -1,4 +1,4 @@
-package com.asygar.myjfx;
+package com.asygar.myjfx.tes;
 
 import javafx.application.Application;
 import javafx.scene.Group;
